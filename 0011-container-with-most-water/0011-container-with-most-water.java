@@ -9,11 +9,12 @@ class Solution {
             int leftHeight = height[left];
             int rightHeight = height[right];
 
-            int currentHeight = Math.min(height[left], height[right]);
+            int currentHeight = (leftHeight < rightHeight) ? leftHeight : rightHeight;
             int width = right - left;
 
             int currentArea = currentHeight * width;
-            resultArea = Math.max(resultArea, currentArea);
+            
+            resultArea = (resultArea > currentArea) ? resultArea : currentArea;
 
             if(leftHeight < rightHeight){
                 left++;
