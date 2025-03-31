@@ -9,7 +9,7 @@ class Solution {
             int leftHeight = height[left];
             int rightHeight = height[right];
 
-            int currentHeight = (leftHeight < rightHeight) ? leftHeight : rightHeight;
+            int currentHeight = Math.min(height[left], height[right]);
             int width = right - left;
 
             int currentArea = currentHeight * width;
@@ -20,7 +20,6 @@ class Solution {
             } else{
                 right--;
             }
-
         }
 
         return resultArea;
