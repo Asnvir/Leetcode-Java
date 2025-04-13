@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/Asnvir/Leetcode-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Asnvir/Leetcode-Java/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Asnvir/Leetcode-Java/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/Asnvir/Leetcode-Java/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/Asnvir/Leetcode-Java/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -20,6 +21,7 @@
 | [0125-valid-palindrome](https://github.com/Asnvir/Leetcode-Java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Asnvir/Leetcode-Java/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Asnvir/Leetcode-Java/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/Asnvir/Leetcode-Java/tree/master/0874-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -46,4 +48,12 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Asnvir/Leetcode-Java/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Asnvir/Leetcode-Java/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Asnvir/Leetcode-Java/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
