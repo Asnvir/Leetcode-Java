@@ -28,6 +28,7 @@
 | [0011-container-with-most-water](https://github.com/Asnvir/Leetcode-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Asnvir/Leetcode-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Asnvir/Leetcode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Asnvir/Leetcode-Java/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asnvir/Leetcode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Asnvir/Leetcode-Java/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Asnvir/Leetcode-Java/tree/master/0643-maximum-average-subarray-i) |
@@ -48,6 +49,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Asnvir/Leetcode-Java/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Asnvir/Leetcode-Java/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Asnvir/Leetcode-Java/tree/master/0643-maximum-average-subarray-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Asnvir/Leetcode-Java/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
